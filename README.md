@@ -43,3 +43,14 @@ Desktop app that detects when you touch your face, using a webcam or a Xbox Kine
 Used technologies: **Electron**, **Vue.js**, **Vuetify**, **TensorFlow.js**.
 
 This app was made as a submission for the [Hack Heroes](https://hackheroes.pl/) programming contest, where it won **🥇 first place**.
+
+## 🌐 [Boardflow](https://boardflow.doteq.cf/) - [[Source](https://github.com/doteq/boardflow)]
+<img align="left" width="100" height="100" src="./assets/boardflow.png" alt="Boardflow logo">
+
+A collaborative web app, where students can add upcoming lessons, homework, tests and quizzes to a shared calendar. Created due to the ineffectiveness of school organization during the lockdowns caused by COVID-19.
+
+### Technologies and features:
+- Made in **Vue.js** and **Vuetify**
+- Uses **Firebase Firestore** as a real-time database
+- Uses **Firebase Auth** for signing in with Google or Facebook accounts
+- Has **🇵🇱 Polish** and **🇬🇧 English** translations
