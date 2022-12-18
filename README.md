@@ -8,7 +8,7 @@ I'm a high school student in **Kraków, Poland**. I spend my free time on a lot 
 ## 🌐 [plan.dk-gl.eu](https://plan.dk-gl.eu) - [[Source](https://github.com/dominik-korsa/timetable)]
 <img align="left" width="100" height="100" src="./assets/timetable.png" alt="Timetable logo">
 
-This is a school timetable app - it can load and parse VULCAN Optivum timetables (using [another project of mine](https://github.com/wulkanowy/timetable-parser-js)) or load data from an [API for V High School in Kraków timetables](https://github.com/cloud11665/vlott).
+This is a school timetable app - it can load and parse VULCAN Optivum timetables (using [another project of mine](https://github.com/wulkanowy/timetable-parser-js)) or load data from an [API for V High School in Kraków timetable](https://github.com/cloud11665/vlott).
 
 ### Technologies and features:
 - **Fully responsive** and **mobile first** - works great on mobile and on desktop
@@ -54,3 +54,20 @@ A collaborative web app, where students can add upcoming lessons, homework, test
 - Uses **Firebase Firestore** as a real-time database
 - Uses **Firebase Auth** for signing in with Google or Facebook accounts
 - Has **🇵🇱 Polish** and **🇬🇧 English** translations
+
+## 🌐 [Dżamnikowa Informatyka](https://dzamnikowa-informatyka.web.app/) - [[Source](https://github.com/dominik-korsa/dzamnikowa-informatyka)]
+A web app for creating resources to teach programming. Teachers can create materials and exercises, written in markdown. Students can send back their solutions to the exercises, which are then graded by a teacher.
+
+### Technologies and features:
+- Made in **Vue.js** and **Vuetify**
+- Uses **Firebase Firestore** as a real-time database
+- Uses **Firebase Auth** for signing in with Google or Facebook accounts
+- Uses **Firebase Cloud Messaging** for push notifications
+
+## 🌐 [Game Auction](https://auction.dk-gl.eu/) - [[Source](https://github.com/dominik-korsa/game-auction)]
+An app for realtime bidding, useful for tabletop games like Monopoly. Supports three types of auctions:
+- **English** - classic auction type. Players place their bids and see the bids of others in real time
+- **Dutch** - the price gets lower as time passes, until someone accepts the current price.
+- **Sealed-bid** - players bid once, without seeing the offers of other bidders. The player who bids the highest price wins.
+
+Uses **Vue.js**, **Vuetify** and a custom **Socket.IO** backend.
