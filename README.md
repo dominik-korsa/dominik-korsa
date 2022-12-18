@@ -22,3 +22,12 @@ This is a school timetable app - it can load and parse VULCAN Optivum timetables
 A mobile app, with over **1 million downloads on [Google Play](https://play.google.com/store/apps/details?id=io.github.wulkanowy&utm_source=homepage)** for accessing VULCAN Uonet+ school registers. This is quite a big project with over 20 contributors.
 
 I've also worked on related projects, like the timetable parser mentioned before, a Discord bot for the Wulkanowy community and the project's website. 
+
+## 🎮 [Discord Integration](https://www.spigotmc.org/resources/discord-integration.91088/) - [[Source](https://github.com/dominik-korsa/discord-integration)]
+<img align="left" width="100" height="100" src="./assets/discord-integration.png" alt="Discord Integration logo">
+
+A plugin for [Spigot](https://www.spigotmc.org/) servers that allows to sync messages in a Discord server and Minecraft chat.
+
+Very customizable, has over **2000 downloads**. Check the [listing on Spigot Hub](https://www.spigotmc.org/resources/discord-integration.91088/) for a list of features.
+
+Written in **Kotlin**, uses **Discord4j**, makes use of **Kotlin coroutines**.
