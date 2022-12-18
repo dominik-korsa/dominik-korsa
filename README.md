@@ -1,4 +1,7 @@
 # Dominik Korsa
+
+![Two hard problems](assets/two-hard-problems.png)
+
 Hi there! 👋
 I'm a high school student in **Kraków, Poland**. I spend my free time on a lot of cool programming projects. I'm also interested in electronics and 3d printing. Check out my favourite projects below:
 
