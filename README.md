@@ -4,6 +4,7 @@ I'm a high school student in **Kraków, Poland**. I spend my free time on a lot 
 
 ## 🌐 https://plan.dk-gl.eu - [[Source](https://github.com/dominik-korsa/timetable)]
 <img align="left" width="100" height="100" src="./assets/timetable.png" alt="Timetable logo">
+
 This is a school timetable app - it can load and parse VULCAN Optivum timetables (using [another project of mine](https://github.com/wulkanowy/timetable-parser-js)) or load data from an [API for V High School in Kraków timetables](https://github.com/cloud11665/vlott).
 
 ### Technologies and features:
@@ -17,6 +18,7 @@ This is a school timetable app - it can load and parse VULCAN Optivum timetables
 
 ## 📱 [Wulkanowy](https://wulkanowy.github.io/) - [[Source](https://github.com/wulkanowy/wulkanowy/blob/develop/README.en.md)]
 <img align="left" width="100" height="100" src="./assets/wulkanowy.png" alt="Wulkanowy logo">
+
 A mobile app, with over **1 million downloads on [Google Play](https://play.google.com/store/apps/details?id=io.github.wulkanowy&utm_source=homepage)** for accessing VULCAN Uonet+ school registers. This is quite a big project with over 20 contributors.
 
 I've also worked on related projects, like the timetable parser mentioned before, a Discord bot for the Wulkanowy community and the project's website. 
