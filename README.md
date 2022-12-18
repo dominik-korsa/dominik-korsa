@@ -5,7 +5,7 @@
 Hi there! 👋
 I'm a high school student in **Kraków, Poland**. I spend my free time on a lot of cool programming projects. I'm also interested in electronics and 3d printing. Check out my favourite projects below:
 
-## 🌐 https://plan.dk-gl.eu - [[Source](https://github.com/dominik-korsa/timetable)]
+## 🌐 [plan.dk-gl.eu](https://plan.dk-gl.eu) - [[Source](https://github.com/dominik-korsa/timetable)]
 <img align="left" width="100" height="100" src="./assets/timetable.png" alt="Timetable logo">
 
 This is a school timetable app - it can load and parse VULCAN Optivum timetables (using [another project of mine](https://github.com/wulkanowy/timetable-parser-js)) or load data from an [API for V High School in Kraków timetables](https://github.com/cloud11665/vlott).
