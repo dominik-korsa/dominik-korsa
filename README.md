@@ -31,3 +31,12 @@ A plugin for [Spigot](https://www.spigotmc.org/) servers that allows to sync mes
 Very customizable, has over **2000 downloads**. Check the [listing on Spigot Hub](https://www.spigotmc.org/resources/discord-integration.91088/) for a list of features.
 
 Written in **Kotlin**, uses **Discord4j**, makes use of **Kotlin coroutines**.
+
+## 💻 Face Shield - [[Source](https://github.com/szczurzy-torpedowiec/faceshield)]
+<img align="left" width="100" height="100" src="./assets/face-shield.png" alt="Face Shield logo">
+
+Desktop app that detects when you touch your face, using a webcam or a Xbox Kinect. When you do that, it plays a sound and shows an alert on the screen. 
+
+Used technologies: **Electron**, **Vue.js**, **Vuetify**, **TensorFlow.js**.
+
+This app was made as a submission for the [Hack Heroes](https://hackheroes.pl/) programming contest, where it won **🥇 first place**.
