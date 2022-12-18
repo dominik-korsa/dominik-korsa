@@ -55,6 +55,11 @@ A collaborative web app, where students can add upcoming lessons, homework, test
 - Uses **Firebase Auth** for signing in with Google or Facebook accounts
 - Has **🇵🇱 Polish** and **🇬🇧 English** translations
 
+## 🔧 [No Liblink](https://chrome.google.com/webstore/detail/no-liblink/eljkcbiebkmpkkccdlmookjjliefneep?hl=pl) - [[Source](https://github.com/dominik-korsa/no-liblink)]
+<img align="left" width="100" height="100" src="./assets/no-liblink.png" alt="No Liblink logo">
+
+A Chrome extension which automatically replaces annoying `liblink.pl` links with the URL they are redirecting to in the Librus Synergia school register.
+
 ## 🌐 [Dżamnikowa Informatyka](https://dzamnikowa-informatyka.web.app/) - [[Source](https://github.com/dominik-korsa/dzamnikowa-informatyka)]
 A web app for creating resources to teach programming. Teachers can create materials and exercises, written in markdown. Students can send back their solutions to the exercises, which are then graded by a teacher.
 
