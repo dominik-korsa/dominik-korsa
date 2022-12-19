@@ -78,3 +78,6 @@ An app for realtime bidding, useful for tabletop games like Monopoly. Supports t
 - **Sealed-bid** - players bid once, without seeing the offers of other bidders. The player who bids the highest price wins.
 
 Uses **Vue.js**, **Vuetify** and a custom **Socket.IO** backend.
+
+## 🌐 [New Year Countdown](https://dominik-korsa.github.io/new-year-countdown/) - [[Source](https://github.com/dominik-korsa/new-year-countdown)]
+A web app that counts down to midnight, January 1st. That's it!
