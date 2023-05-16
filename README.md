@@ -31,7 +31,7 @@ I've also worked on related projects, like the timetable parser mentioned before
 
 A plugin for [Spigot](https://www.spigotmc.org/) servers that allows to sync messages in a Discord server and Minecraft chat.
 
-Very customizable, has over **2000 downloads**. Check the [listing on Spigot Hub](https://www.spigotmc.org/resources/discord-integration.91088/) for a list of features.
+Very customizable, has almost **3000 downloads**. Check the [listing on Spigot Hub](https://www.spigotmc.org/resources/discord-integration.91088/) for a list of features.
 
 Written in **Kotlin**, uses **Discord4j**, makes use of **Kotlin coroutines**.
 
