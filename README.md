@@ -1,5 +1,3 @@
-# Dominik Korsa
-
 ![Two hard problems](assets/two-hard-problems.png)
 
 Hi there! 👋
