@@ -20,7 +20,7 @@ This is a school timetable app - it can load and parse VULCAN Optivum timetables
 ## 📱 [Wulkanowy](https://wulkanowy.github.io/) - [[Source](https://github.com/wulkanowy/wulkanowy/blob/develop/README.en.md)]
 <img align="left" width="100" height="100" src="./assets/wulkanowy.png" alt="Wulkanowy logo">
 
-A mobile app, with over **1 million downloads on [Google Play](https://play.google.com/store/apps/details?id=io.github.wulkanowy&utm_source=homepage)** for accessing VULCAN Uonet+ school registers. This is quite a big project with over 20 contributors.
+A mobile app, with over **1 million downloads on Google Play** for accessing VULCAN Uonet+ school registers. This is quite a big project with over 20 contributors.
 
 I've also worked on related projects, like the timetable parser mentioned before, a Discord bot for the Wulkanowy community and the project's website. 
 
