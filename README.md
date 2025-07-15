@@ -1,7 +1,7 @@
 ![Two hard problems](assets/two-hard-problems.png)
 
 Hi there! 👋
-I'm a univeristy student in **Kraków, Poland**. I spend my free time making *things*. The *things* include mostly programming projects, but I'm also interested in electronics and 3d printing. Check out a list of some of the *things* that I made or contributed to:
+I'm a **Theoretical Computer Science** student at the Jagiellonian University, **Kraków, Poland**. I spend my free time making *things*. The *things* include mostly programming projects, but I'm also interested in electronics and 3d printing. Check out a list of some of the *things* that I made or contributed to:
 
 ## 🌐 [plan.dk-gl.eu](https://plan.dk-gl.eu) - [[Source](https://github.com/dominik-korsa/timetable)]
 <img align="left" width="100" height="100" src="./assets/timetable.png" alt="Timetable logo">
